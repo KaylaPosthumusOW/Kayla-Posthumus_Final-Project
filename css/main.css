@@ -1,0 +1,174 @@
+nav{
+    width: 100%;
+    /* background-color: lightgrey; */
+    height: 100px;
+    padding-top: 5px;
+}
+
+.logo{
+    float: left;
+    margin-left: 50px;
+    padding-right: 25px;
+    padding-top: 20px;
+}
+
+.nav-con{
+    /* float: right; */
+    
+}
+
+.nav-con ul{
+    list-style: none;
+}
+
+.nav-con li{
+    float: left;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+}
+
+.search-button{
+    width: 200px;
+    border: 3px solid black;
+    height: 35px;
+    border-radius: 35px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+header{
+    background-color: lightgrey;
+    width: 100%;
+    height: 60vh;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+header h1{
+    margin-bottom: 50px;
+}
+
+.play-button{
+    float: left;
+    width: 150px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    margin-right: 15px;
+}
+.shuffle-button{
+    float: right;
+    width: 150px;
+    height: 40px;
+    border-radius: 40px;
+    border: 3px solid black;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    margin-right: 15px;
+}
+
+.heart-button{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.col-box{
+    width: 500px;
+    height: 300px;
+    background-color: lightblue;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+.sub-title{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.col-3{
+    width: 348.5px;
+    height: 348.5px;
+    background-color: lightblue;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+footer{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 150px;
+}
+
+.about-box{
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    margin-left: 100px;
+    /* margin-right: px; */
+    margin-top: 100px;
+}
+
+.about-box p{
+    margin-top: 30px;
+    margin-bottom: 70px;
+    width: 70%;
+}
+
+.box{
+    width: 78%;
+    height: 500px;
+    margin: 0 auto;
+    margin-right: 100px;
+    background-color: lightgrey;
+    margin-left: 50px;
+    margin-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.box p{
+    padding-top: 15px;
+}
+
+.lines{
+    width: 80%;
+    height: 35px;
+    border-radius: 35px;
+    background-color: grey;
+    color: white;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-top: 4px;
+}
+
+.line-thicker{
+    width: 80%;
+    height: 70px;
+    border-radius: 20px;
+    background-color: grey;
+    color: white;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding-top: 4px;
+}
+
+.gei-button{
+    width: 150px;
+    height:45px;
+    border-radius: 45px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+    margin-left: 50%;
+}
